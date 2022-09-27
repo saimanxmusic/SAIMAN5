@@ -3,7 +3,7 @@
 <a href="https://youtube.com/c/TrickyAbhi"><img src="https://img.shields.io/badge/Subscribe%20Channel-red.svg?style=for-the-badge&logo=Youtube"></a>
   
 
-<h1 align="center"><b>saimanxmusic</b></h1>
+<h1 align="center"><b>TrickyAbhii_Op</b></h1>
 
 # <p align="center"><a href="https://github.com/herox-xd/saimanxmusic"><img src="https://github-readme-stats.vercel.app/api/pin?username=herox-xd&show_icons=true&theme=dracula&hide_border=true&repo=TrickyAbhi-Bot"></a></p>
 <p align="center">
